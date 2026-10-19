@@ -9,5 +9,6 @@
     "markdown": false,
     "scminput": false
   },
-  "github.copilot.nextEditSuggestions.enabled": false
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
